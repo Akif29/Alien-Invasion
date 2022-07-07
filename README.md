@@ -8,8 +8,8 @@ D to move right.
 SPACE to shoot.
 
 ## Screenshots
-![Title Screen](https://github.com/Akif29/Alien-Invasion/blob/main/Screen%20Shots/Starting%20screen.PNG)
+![Title Screen](https://github.com/Akif29/Alien-Invasion/blob/main/Screenshots/Peak%20gameplay.png)
 
-![Play Screen](https://github.com/Akif29/Alien-Invasion/blob/main/Screen%20Shots/Peak%20gameplay.PNG)
+![Play Screen](https://github.com/Akif29/Alien-Invasion/blob/main/Screenshots/Starting%20screen.png)
 
-![Demo](https://github.com/Akif29/Alien-Invasion/blob/main/Screen%20Shots/xqcexplaininghow.jpg)
+![Demo](https://github.com/Akif29/Alien-Invasion/blob/main/Screenshots/xqcexplaininghow.jpg)
